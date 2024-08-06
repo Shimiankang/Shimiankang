@@ -1,8 +1,5 @@
-## imdatouk
-
-**Shimiankang/Shimiankang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I am Datoukang
+imdatouk、Shimiankang
 
 - 🔭 编程语言：python、JavaScript、PHP、CSS、
 - 🔍 框架/库：Vue、React、taro、uniapp、thinkphp

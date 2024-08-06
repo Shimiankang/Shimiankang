@@ -4,10 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front-end Development
-- 🌱 I’m currently learning python、mongodb、
-- 📫 How to reach me: imdatouk@outlook.com
-- 😄 Pronouns: King of Shortcut keys🤣
+- 🔭 编程语言：python、JavaScript、PHP、CSS、
+- 🔍 框架/库：Vue、React、taro、uniapp、thinkphp
+- 📫 邮箱: imdatouk@outlook.com
+- 😄 学习开源项目
+- 🌱 ~
 
 ## 今年汇总 ✨
 

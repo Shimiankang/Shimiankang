@@ -1,11 +1,12 @@
 ## I am Datoukang
 imdatouk、Shimiankang
 
-- 🔭 编程语言：Python、JavaScript、PHP、CSS、
-- 🔍 框架/库：Vue、React、taro、uniapp、thinkphp
+- 🔭 编程语言：Python、JavaScript、PHP
+- 🔍 框架/库：Vue、React、taro、uniapp、thinkphp、jQuery、tailwindcss
 - 📫 邮箱: imdatouk@outlook.com
-- 😄 学习开源项目，锻炼自己。
-- 🌱 每解决一个Bug都会提升自己的能力和技术。
+- 🌏 网站：<a href="https://datoukang.top" target="_blank">https://datoukang.top</a>
+- 🌱 每解决一个Bug都会提升自己的技术能力。
+- 📷 业余爱好：摄影
 
 ## 今年汇总 ✨
 
